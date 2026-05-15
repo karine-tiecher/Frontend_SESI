@@ -51,3 +51,29 @@ button {
 button:hover {
     background-color: #eff4fa;
 }
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+li{
+    padding: 5px o;
+    color: #ccc;
+}
+input, select{
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 5px;
+    border: 1px solid #444;
+    background-color: #252525;
+    color: white;
+    box-sizing: border-box;
+}
+ hr {
+    border: 0;
+    border-top: 1xp solid #181717;
+    margin: 20xp 0;
+ }
+ 
+ 
